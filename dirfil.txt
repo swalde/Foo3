@@ -1,0 +1,13 @@
+ Volume in drive D is Data
+ Volume Serial Number is 50B1-4066
+
+ Directory of D:\Repos\fiic-integrationsplattform\GitDemo
+
+2021-06-21  18:35    <DIR>          .
+2021-06-21  18:35    <DIR>          ..
+2021-06-21  18:35                 0 dirfil.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  1ÿ921ÿ046ÿ319ÿ104 bytes free
+
+
+uppdaterad
